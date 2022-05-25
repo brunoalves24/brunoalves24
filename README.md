@@ -17,10 +17,9 @@ Skills and Experience
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalves24)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bruno.alves24@fatecitu.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-nascimento-2a87a9169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-nascimento-2a87a9169" target="_blank"><img src=" https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBrunonextup" target="_blank"></a>
+  <a href="https://twitter.com/Brunonextup" target="_blank"><img src="https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrunonextup" target="_blank"></a>
  
  
 </div>
