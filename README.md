@@ -11,14 +11,16 @@ Skills and Experience
 - 🔭 I’m currently working on Travelex Bank 
 - 🌱 I’m currently learning FastApi, Springboot and Angular 
 
-  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brunoalves24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bruno-nascimento-2a87a9169/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Brunonextup)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalves24)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-  <a href="https://github.com/brunoalves24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoalves24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalves24&layout=compact&langs_count=16&theme=dracula"/>
+<div> 
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bruno.alves24@fatecitu.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-nascimento-2a87a9169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-nascimento-2a87a9169" target="_blank"><img src=" https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBrunonextup" target="_blank"></a>
+ 
+ 
 </div>
-
