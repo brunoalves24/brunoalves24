@@ -12,7 +12,7 @@ Skills and Experience
 - 🌱 I’m currently learning FastApi, Springboot and Angular 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalves24)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalves24&layout=compact&langs_count=16&theme=dracula"/>
 
 <div> 
   <a href = "mailto:bruno.alves24@fatecitu.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
