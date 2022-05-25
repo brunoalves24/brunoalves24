@@ -1,7 +1,12 @@
 ### Hi there 👋, my name is Bruno
 I'm Bruno from Brazil, I really enjoy languages and frameworks like Spring Boot and Angular and RPA Automation like Robot Framework.
 
-Skills: Spring Boot / Java / Python / Angular/ Robot Framework
+Skills and Experience
+* 🥬 Spring Boot 
+* ☕ Java 
+* 🐍 Python 
+* 💻 Angular
+* 🤖 Robot Framework
 
 - 🔭 I’m currently working on Travelex Bank 
 - 🌱 I’m currently learning FastApi, Springboot and Angular 
